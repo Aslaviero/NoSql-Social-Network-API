@@ -39,7 +39,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add
 
 ## Usage:
 
-## Installation:
+## Technology:
 
 - Node.js
 - Inquirer@8.2.4
